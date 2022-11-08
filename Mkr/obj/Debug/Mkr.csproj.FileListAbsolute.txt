@@ -1,0 +1,8 @@
+D:\Патерни\Mkr\bin\Debug\Mkr.exe.config
+D:\Патерни\Mkr\bin\Debug\Mkr.exe
+D:\Патерни\Mkr\bin\Debug\Mkr.pdb
+D:\Патерни\Mkr\obj\Debug\Mkr.csproj.AssemblyReference.cache
+D:\Патерни\Mkr\obj\Debug\Mkr.csproj.SuggestedBindingRedirects.cache
+D:\Патерни\Mkr\obj\Debug\Mkr.csproj.CoreCompileInputs.cache
+D:\Патерни\Mkr\obj\Debug\Mkr.exe
+D:\Патерни\Mkr\obj\Debug\Mkr.pdb
